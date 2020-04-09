@@ -2,7 +2,7 @@
     "name": "lua-extension-pack",
     "displayName": "Lua Extension Pack",
     "description": "Toolkits for development lua.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "JiuMengDz",
     "engines": {
         "vscode": "^1.30.0"
@@ -10,7 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "stuartwang.luapanda",
         "liwangqian.luacoderassist",
         "kangping.luaide",
