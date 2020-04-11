@@ -14,8 +14,7 @@
         "stuartwang.luapanda",
         "liwangqian.luacoderassist",
         "kangping.luaide",
-        "jiumengdz.superpathcopy",
-        "gruntfuggly.todo-tree"
+        "jiumengdz.superpathcopy"
     ],
     "repository": "https://github.com/JiuMengDz/lua-extension-pack",
     "icon": "images/lua.png"
